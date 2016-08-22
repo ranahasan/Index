@@ -1,9 +1,8 @@
-# Index
-Index – Analytics & Data Science Resources
+# Index – Analytics & Data Science Resources
 
-Business/Enterprise Analytics
+# Business/Enterprise Analytics
 
-Analytics as a Strategy, Horizontal & Vertical Analytics, Data Science, Performance Management, Decision Making, Analytics Process, Tools 
+## Analytics as a Strategy, Horizontal & Vertical Analytics, Data Science, Performance Management, Decision Making, Analytics Process, Tools 
 http://data-informed.com/a-tale-of-two-disciplines-data-scientist-and-business-analyst/
 
 BI Maturaity level - https://medium.com/the-data-of-things/machine-learning-and-cognitive-systems-part-2-big-data-analytics-d3ce7023325b#.73q66f6jr
@@ -36,7 +35,7 @@ Data science questions - http://www.kdnuggets.com/2016/02/21-data-science-interv
 
 http://www.data-mania.com/blog/a-5-step-checklist-for-multiple-linear-regression/ 
 
-About Data, Data Measurement Concepts, Spreadsheet Analytics
+## About Data, Data Measurement Concepts, Spreadsheet Analytics
 
 “garbage in produces garbage out.”
 
@@ -50,7 +49,7 @@ data security – fine/coarse grain, Anonymization
  
 data prep - http://www.dbta.com/Editorial/News-Flashes/Trillium-Integrates-Data-Prep-and-Data-Quality-for-Big-Data-Analytics-109134.aspx
 
-Storage and Retrieval, Data Preparation, Structured Query language (SQL)
+## Storage and Retrieval, Data Preparation, Structured Query language (SQL)
 
 R for Everyone: Advanced Analytics and Graphics by Jared P. Lander (2013) 
 
@@ -63,7 +62,7 @@ Feather - https://www.r-bloggers.com/feather-fast-interoperable-data-importexpor
 WRangel - http://www.inc.com/bill-carmody/former-facebook-data-scientist-shares-how-to-wrangle-your-data.html 
 Pandas/Json - https://www.dataquest.io/blog/python-json-tutorial/ 
 
-Visualization and Exploration
+## Visualization and Exploration
 •	Now You See It: Simple Visualization Techniques for Quantitative Analysis (2009) 
 •	Show Me the Numbers: Designing Tables and Graphs to Enlighten (2012) 
 •	Information Dashboard Design: Displaying Data for At-a-Glance Monitoring (2013) 
@@ -87,7 +86,7 @@ http://thenextweb.com/us/2016/04/04/mits-new-visualization-tool-is-a-goldmine-fo
 PowerBI – Sundance http://www.fastcodesign.com/3058185/microsofts-new-data-viz-tool-puts-excel-charts-to-shame 
 
 
-Descriptive Statistics
+## Descriptive Statistics
 Statistical Methods Should Enable Data to Answer Scientific Questions
 
 This shift in perspective from statistical technique to scientific question may change the way one approaches data collection and analysis. 
@@ -97,11 +96,11 @@ After learning about the questions, statistical experts discuss with their scien
 http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961#sec002 
 
 
-Probability Distributions and Data Modeling
+## Probability Distributions and Data Modeling
 
-Sampling and Estimation
+## Sampling and Estimation
 
-Statistical Inference, A/B Testing
+## Statistical Inference, A/B Testing
 
 “Treat statistics as a science, not a recipe.” This is a great candidate for Rule 0.
 
@@ -114,16 +113,16 @@ Computer age statistical Inference  - http://web.stanford.edu/%7Ehastie/CASI/ind
 
 7 step guide to A/B testing - http://conversionxl.com/lies-analytics-tool/ 
 
-Trend Analysis, Regression
+## Trend Analysis, Regression
 "Typically, a subject matter expert and a data scientist construct regression models to look at the relationships between independent variables that drive future events. They have a hypothesis that guides the analysis [so] they come up with relatively predictable outcomes. Machine learning picks up unexpected relationships," said Larry Schor, SVP at population health management solution provider Medecision, in an interview.
 http://www.informationweek.com/strategic-cio/executive-insights-and-innovation/11-cool-ways-to-use-machine-learning/d/d-id/1323375?image_number=3
 
 Google trends - https://medium.com/google-news-lab/what-is-google-trends-data-and-what-does-it-mean-b48f07342ee8#.hcqv8wi4c
  
 
-Forecasting Techniques and Tools: Excel, R, SAP
+## Forecasting Techniques and Tools: Excel, R, SAP
 
-Introduction to Data Mining
+## Introduction to Data Mining
 20 lessons – Ml - http://www.kdnuggets.com/2015/12/xamat-20-lessons-building-machine-learning-systems.html
 which model to use - /regression/ http://www.datavizualization.com/blog/10-types-of-regressions-which-one-to-use 
 7 steps to mastering machine learning in python - http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/2
@@ -145,7 +144,7 @@ Next in ML - http://www.huffingtonpost.com/quora/whats-next-in-machine-lea_b_949
 Machine Learning
 http://www.forbes.com/sites/louiscolumbus/2016/06/04/machine-learning-is-redefining-the-enterprise-in-2016/#42c705b55fc0 
 
- Unsupervised Learning
+##  Unsupervised Learning
 Intro to machine learning - http://www.r2d3.us/visual-intro-to-machine-learning-part-1/?_lrsc=67983a20-0202-4272-a95c-7ca30faa5ba6&cmp=em-data-na-na-newsltr_ai_20160808&imm_mid=0e684b&trk=elevate_tw
 
 https://re-work.co/blog/deep-learning-roland-memisevic-unlabelled-datasets-rethinking-unsupervised-learning
@@ -153,25 +152,25 @@ https://re-work.co/blog/deep-learning-roland-memisevic-unlabelled-datasets-rethi
 
 Upsupervised learning/future - https://www.eiuperspectives.economist.com/technology-innovation/%E2%80%9Cunsupervised-learning%E2%80%9D-and-future-analytics 
 
-Spreadsheet Modeling and Analysis
+## Spreadsheet Modeling and Analysis
 
-Supervised Learning (Trees & Neural Networks)
+## Supervised Learning (Trees & Neural Networks)
 https://flipboard.com/@aj1ujm1/data-science-v706t99nz/machine-learning-for-large-scale-sem-accounts/a-wiBfPVD9Taejd8gWbCfnug%3Aa%3A285596943-48b2820599%2Fsearchengineland.com 
 Soft decision trees - http://www.cs.cornell.edu/%7Eoirsoy/softtree.html 
 
 Decision trees vs. Nueral Networks
 http://programmers.stackexchange.com/questions/157324/decision-trees-vs-neural-networks 
-Monte Carlo Simulation and Risk Analysis
+## Monte Carlo Simulation and Risk Analysis
 
-Linear and Integer Optimization
+## Linear and Integer Optimization
 
 ADM Solvers over spark - https://yahooresearch.tumblr.com/post/147013834176/open-sourcing-sparkadmm-a-massively-parallel 
 
 
-Decision Analysis,  Business Process Analysis
+## Decision Analysis,  Business Process Analysis
 
 
-Customer Intelligence, Analytics Deployment Methods, AI, Analytical Trends
+## Customer Intelligence, Analytics Deployment Methods, AI, Analytical Trends
 
 Deployment/Azure - https://azure.microsoft.com/en-us/documentation/articles/machine-learning-model-progression-experiment-to-web-service/ 
 
@@ -220,30 +219,30 @@ Advanced Data analysis - http://fedscoop.com/advanced-data-analytics
 
 Sentiment Analysis on Trump - http://datascienceplus.com/sentiment-analysis-on-donald-trump-using-r-and-tableau/
 
-Data Science
+# Data Science
 
 
-Research
-Current Trends
+## Research
+## Current Trends
 Artificial Neurons - http://singularityhub.com/2016/08/14/ibms-new-artificial-neurons-a-big-step-toward-brain-like-computers/ 
-Use-cases
-Project Cycle
-Presentation
-Situation & Business Understanding
-Data Acquisition
-SQL
-Data Mining
-Profiling & Summary Statistics
-Cleaning
-Transformation
+## Use-cases
+## Project Cycle
+## Presentation
+## Situation & Business Understanding
+## Data Acquisition
+## SQL
+## Data Mining
+## Profiling & Summary Statistics
+## Cleaning
+## Transformation
 Python - http://www.slideshare.net/GaelVaroquaux/scientit-meets-web-dev-how-python-became-the-language-of-data
 
-Exploration & Visualization
-Preliminary Exploration, Trend Analysis & Slice and Dicing
+## Exploration & Visualization
+## Preliminary Exploration, Trend Analysis & Slice and Dicing
 http://www.forbes.com/sites/bernardmarr/2016/08/16/how-to-use-analytics-to-identify-trends-in-your-market/#42892afd228b
 
-Big Data Visualizaion
-Methods Selection
+## Big Data Visualizaion
+## Methods Selection
 
 model-parallelism (use same data across different models) Part I: Dask & scikit-learn: Model Parallelism
 
@@ -253,25 +252,25 @@ distributed learning and grid search on a real dataset - Part III: Dask & scikit
  
 
 
-Feature Engineering
-Pre-processing
-A/B Testing
-Algorithms
+## Feature Engineering
+## Pre-processing
+## A/B Testing
+## Algorithms
 Distributed Machine Learning Toolkit
 http://www.winbeta.org/news/microsoft-makes-distributed-machine-learning-toolkit-open-source 
 
 
 Random numbers – true - http://fortune.com/2016/03/14/zoomdata-adds-amazon-data-sources-to-its-menu/ 
 
-Artificial Intelligence
+## Artificial Intelligence
 Creative AI - http://iq.intel.com/getting-creative-ai-and-machine-learning/ 
 AI vs ML vs DL - http://www.bigdataanalyticsguide.com/2016/07/31/week-machine-learning-july-31-2016/ 
 Locator AI - http://www.fastcodesign.com/3058793/take-a-photo-and-this-crazy-neural-network-can-deduce-where-you-are
 
-Bayesian Analysis
+## Bayesian Analysis
 https://thinkinator.com/2016/01/12/r-users-will-now-inevitably-become-bayesians/
 Changepoint - https://www.r-bloggers.com/a-simple-intro-to-bayesian-change-point-analysis/
-Deep Learning
+## Deep Learning
 Deep learning in R http://www.r-tutor.com/deep-learning/introduction 
 Top 5 arXiv Deep Learning Papers, Explained
 
@@ -285,21 +284,21 @@ Statistical View of http://www.kdnuggets.com/2015/11/statistical-view-deep-learn
 Canonical patterns - https://flipboard.com/@aj1ujm1/data-science-v706t99nz/google-extends-tensorflow-machine-learning-to-ios/a-wjruugpQTNS9EbNii7SF3Q%3Aa%3A285596943-3902127546%2Finfoworld.com 
 DNN Framework - http://www.tomshardware.com/news/ceva-cdnn2-tensorflow-embedded-systems,32158.html 
 DNN with Sparknet - http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html 
-Ensemble Models
-Forecasting/Time-series
-Fourier Analysis
-Machine Intelligence
+## Ensemble Models
+## Forecasting/Time-series
+## Fourier Analysis
+## Machine Intelligence
 HTM (Hierarchical Temporal Memory) - https://jaxenter.com/machine-intelligence-vs-machine-learning-128157.html 
 
-Network Analysis
+## Network Analysis
 https://graph-tool.skewed.de/performance 
 http://blogs.scientificamerican.com/sa-visual/visualizing-the-global-network-of-languages/
 
-Inferential Statistics
-Markov Models
-On-line Learning
-Operations Research and Analysis – Cuing
-Optimization & Multiple Goals
+## Inferential Statistics
+## Markov Models
+## On-line Learning
+## Operations Research and Analysis – Cuing
+## Optimization & Multiple Goals
 Operations Research Superhighway
 Linear Prgramming and Optimal Network Flow
 Stochastic Optimazaion
@@ -307,16 +306,16 @@ Non-linear Optimzation
 Integer Optimization
 Linear Optimization
 Solving linear programs in a spreadsheet
-Probability
-Queuing
-Reinforcement Learning
-Rule-based Learning
-Scheduling & Multi-period Planning
-Sensitivity Analysis
-Simulation and Random Walks
-Statistics
-Stochastic Optimization
-Supervised Learning
+## Probability
+## Queuing
+## Reinforcement Learning
+## Rule-based Learning
+## Scheduling & Multi-period Planning
+## Sensitivity Analysis
+## Simulation and Random Walks
+## Statistics
+## Stochastic Optimization
+## Supervised Learning
 
 Regression - http://www.datavizualization.com/blog/10-types-of-regressions-which-one-to-use 
 Fuzzy Forests - https://mran.microsoft.com/package/fuzzyforest/
@@ -332,17 +331,17 @@ Neural Networks - https://medium.com/autonomous-agents/emergence-of-the-artifici
 
 Ordinal Least Squares Regression - http://www.ats.ucla.edu/stat/r/dae/ologit.htm 
 
-Tensors 
-Unsupervised Learning
+## Tensors 
+## Unsupervised Learning
 Model-based Clustering - http://www.sthda.com/english/wiki/model-based-clustering-unsupervised-machine-learning 
 
-Computational Fundamentals
+## Computational Fundamentals
 
 Computation – Popular Equations
 http://www.independent.co.uk/news/business/the-17-equations-that-changed-the-course-of-history-a7190351.html
 
-Techniques and Methods
-Application Notes
+## Techniques and Methods
+## Application Notes
 
 Mapping – Society Scientists at Stanford University apply machine learning algorithms to satellite data to automatically map out impoverished areas of the world.
 
@@ -353,20 +352,20 @@ https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognit
 
 Image recognition - http://firsttimeprogrammer.blogspot.com/2016/07/image-recognition-in-r-using.html 
 
-Insights
-Actions
-Results
-Data cience 
+## Insights
+## Actions
+## Results
+## Data cience 
 http://www.emc.com/microsites/data-scientist-interactive-guide/index.htm?cmp=soc-cor-glbl-us-sprinklr-TWITTER-Big+Data-EMCcorp-328230962
 
-Data Engineering
+## Data Engineering
 GPU computing - http://www.slideshare.net/continuumio/gpu-computing-with-apache-spark-and-python 
-Bash
-Databases
-Sampling
-Surveys
-Open Data
-Scaling
+## Bash
+## Databases
+## Sampling
+## Surveys
+## Open Data
+## Scaling
 
 Spark – Scala vs. Pyspark - https://www.dezyre.com/article/scala-vs-python-for-apache-spark/213 
 
@@ -374,24 +373,24 @@ Scaling R - https://flipboard.com/@aj1ujm1/data-science-v706t99nz/scalable-data-
 
 Parallel processing Python - http://homes.cs.washington.edu/%7Ejmschr/lectures/Parallel_Processing_in_Python.html
 
-Real-time
+## Real-time
 https://www.datanami.com/2016/07/07/investments-fast-data-analytics-surge/
-ML Cloud Tools
+## ML Cloud Tools
 Azure – R, python http://blog.revolutionanalytics.com/2016/08/ml-studio-mro-python3.html 
 ML - https://msdn.microsoft.com/en-us/library/azure/dn905812.aspx 
-Systems Engineering
+## Systems Engineering
 
 
 
-Cases
+# Cases
 
-General-Sort
+## General-Sort
 http://www.business2community.com/big-data/16-case-studies-companies-proving-roi-big-data-01408654#EIxbh7UKywYEPX5B.97
 Retail- http://www.businessinsider.com/zara-has-the-best-business-model-2015-12 
 Cool - http://www.informationweek.com/strategic-cio/executive-insights-and-innovation/11-cool-ways-to-use-machine-learning/d/d-id/1323375?image_number=8 
 Uses- https://flipboard.com/@aj1ujm1/data-science-v706t99nz/24-uses-of-statistical-modeling-(part-i)/a-piVeaDFrRwaGnjLd2Xc2Sw%3Aa%3A285596943-d74f05a352%2Fdatasciencecentral.com 
 
-Vertical
+## Vertical
 
 IoT/manufacturing - http://www.economist.com/news/leaders/21678786-manufacturers-must-learn-behave-more-tech-firms-machine-learning
 
@@ -446,7 +445,7 @@ Identify sales pitches - People.ai applies machine learning methods to tradition
  
 
 
-Horizontal
+## Horizontal
 
 Employee engagement - https://hbr.org/2015/12/ideos-employee-engagement-formula&cm_sp=Article-_-Links-_-End%20of%20Page%20Recirculation
 
@@ -496,7 +495,7 @@ Zero day exploits - http://www.forbes.com/sites/kevinmurnane/2016/08/08/machine-
 
 Discover data breach - https://techcrunch.com/2016/07/25/how-predictive-analytics-discovers-a-data-breach-before-it-happens/ 
 
-General-unsorted
+## General-unsorted
 
 DARDEN BUSINESS PUBLISHING-CASES 
 http://store.darden.virginia.edu/ 
@@ -772,7 +771,7 @@ http://dx.doi.org/10.1287/ited.4.1.65
 Keywords: facility location, distribution network, linear programming, integer programming, strategic planning, cases
 
 
-Data Sets
+# Data Sets
 
 INFORMS MARKETING SCIENCE SOCIETY-ISMS RESEARCH DATASETS 
 https://www.informs.org/Community/ISMS/ISMS-Research-Datasets 
@@ -794,7 +793,7 @@ http://www.google.com/publicdata/directory
 2013 2014 
 
 
-Courses
+# Courses
 http://cs.calstatela.edu/wiki/index.php/Courses/CS_461/Spring_2011
 http://www.digitaltrends.com/computing/microsoft-launches-data-science-curriculum/ 
 
@@ -810,14 +809,14 @@ Machine learning is poised to be the next frontier, so don't miss this opportuni
 •	From 0 to 1: Learn Python Programming—Easy as Pie ($49)
 •	Quant Trading Using Machine Learning ($99)
 
-Conferences:
+# Conferences:
 http://www.kdd.org/kdd2016/ aug 13-17
-Instructor Resources:
+# Instructor Resources:
 
 SAS-INSTRUCTOR RESOURCES 
 http://support.sas.com/learn/ap/tkit/list.html 
 
-Books
+# Books
 Requested books:
 
 -June 27 - http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-reasoning-and-machine-learning?format=HB&isbn=9780521518147
@@ -877,7 +876,7 @@ Silver N (2012) The Signal and the Noise: Why Most Predictions Fail but Some Don
 Soares S (2013) Big Data Governance: An Emerging Imperative (MC Press Online, Boise, ID). 
 Spitzer DR (2007) Transforming Performance Management: Rethinking the Way We Measure and Drive Organizational Success (AMACOM, New York). 
 Taylor J (2011) Decision Management Systems: A Practical Guide to Using Business Rules and Predictive
-Question pool
+# Question pool
 
 1.	Which of the following BEST describes the data and information ow within an organization? 
 .	a)  Information assurance 
@@ -1207,7 +1206,7 @@ receiving at least x as does A, and for some x, B gives a higher probability of 
 
 46.	b) multidimensional modeling. CORRECT: Multidimensional modeling is the optimum way to organize data in a data warehouse for analysis. It is associated with OLAP (On-line Analytical Processing). OLAP data is organized in cubes that can be taken directly from the data warehouse for analysis. 
 
-Other Resources:
+# Other Resources:
 
 KAGGLE IN-CLASS INITIATIVE 
 (http://inclass.kaggle.com/) 
