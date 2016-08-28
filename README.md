@@ -1,9 +1,15 @@
-# Index – Analytics & Data Science Resources
+Index – Analytics & Data Science Resources
 
 # Business/Enterprise Analytics
 
 ## Analytics as a Strategy, Horizontal & Vertical Analytics, Data Science, Performance Management, Decision Making, Analytics Process, Tools 
+Bais in Algorithms - https://flipboard.com/@aj1ujm1/data-science-v706t99nz/computer-scientists-find-bias-in-algorithms/a-qM2nZiSHTRWPqsqHwkO9kg%3Aa%3A285596943-34d0bed3ae%2Fieee.org
+
 http://data-informed.com/a-tale-of-two-disciplines-data-scientist-and-business-analyst/
+
+Challenges: http://www.kdnuggets.com/2016/08/data-science-challenges.html 
+
+Telling stories - http://mediashift.org/2015/08/when-telling-data-driven-stories-let-readers-ask-questions-too/ 
 
 BI Maturaity level - https://medium.com/the-data-of-things/machine-learning-and-cognitive-systems-part-2-big-data-analytics-d3ce7023325b#.73q66f6jr
 Storytelling- http://www.dataversity.net/best-practices-in-data-storytelling/ 
@@ -35,7 +41,11 @@ Data science questions - http://www.kdnuggets.com/2016/02/21-data-science-interv
 
 http://www.data-mania.com/blog/a-5-step-checklist-for-multiple-linear-regression/ 
 
-## About Data, Data Measurement Concepts, Spreadsheet Analytics
+## About Data, Data Measurement Concepts, Big Data, Spreadsheet Analytics
+
+http://bigthink.com/errors-we-live-by/is-all-the-truth-we-need-in-the-data
+
+Power of small data vs big data: http://www.huffingtonpost.com/hollie-russon-gilman/the-power-of-small-data-b_b_8512954.html 
 
 “garbage in produces garbage out.”
 
@@ -63,6 +73,9 @@ WRangel - http://www.inc.com/bill-carmody/former-facebook-data-scientist-shares-
 Pandas/Json - https://www.dataquest.io/blog/python-json-tutorial/ 
 
 ## Visualization and Exploration
+http://www.datasciencecentral.com/profiles/blogs/10-features-all-dashboards-should-have
+Power BI/Excel/mapping - http://geoawesomeness.com/geoawesomehowto-how-to-make-a-killer-map-using-excel-in-under-5-minutes-with-powermap-plugin/
+
 •	Now You See It: Simple Visualization Techniques for Quantitative Analysis (2009) 
 •	Show Me the Numbers: Designing Tables and Graphs to Enlighten (2012) 
 •	Information Dashboard Design: Displaying Data for At-a-Glance Monitoring (2013) 
@@ -123,6 +136,11 @@ Google trends - https://medium.com/google-news-lab/what-is-google-trends-data-an
 ## Forecasting Techniques and Tools: Excel, R, SAP
 
 ## Introduction to Data Mining
+http://www.datasciencecentral.com/profiles/blogs/22-tips-for-better-data-science
+
+Field guide to data science: http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science 
+learning systems - http://www.kdnuggets.com/2015/09/questions-data-science-can-answer.html
+
 20 lessons – Ml - http://www.kdnuggets.com/2015/12/xamat-20-lessons-building-machine-learning-systems.html
 which model to use - /regression/ http://www.datavizualization.com/blog/10-types-of-regressions-which-one-to-use 
 7 steps to mastering machine learning in python - http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/2
@@ -178,6 +196,8 @@ Deployment – Python & Docker - https://medium.com/@mattvonrohr/from-dev-to-ops
 
 Designing great data products - https://www.oreilly.com/ideas/drivetrain-approach-data-products 
 
+Deloying python aps in VS - https://flipboard.com/@aj1ujm1/data-science-v706t99nz/why-write-python-in-visual-studio%3F/a-F-O9Zq0pR-OabRFbLekxng%3Aa%3A285596943-26179a62cc%2Fmsdn.com
+
 Serverless microservice - http://blog.algorithmia.com/cloud-hosted-deep-learning-models/ 
 
 Ai in the enterprise - https://techcrunch.com/2016/05/12/clarifying-the-uses-of-artificial-intelligence-in-the-enterprise/ 
@@ -225,12 +245,14 @@ Sentiment Analysis on Trump - http://datascienceplus.com/sentiment-analysis-on-d
 ## Research
 ## Current Trends
 Artificial Neurons - http://singularityhub.com/2016/08/14/ibms-new-artificial-neurons-a-big-step-toward-brain-like-computers/ 
+Iot: https://www.linkedin.com/pulse/why-internet-things-drive-knowledge-revolution-david-evans 
 ## Use-cases
 ## Project Cycle
 ## Presentation
 ## Situation & Business Understanding
 ## Data Acquisition
 ## SQL
+http://www.kdnuggets.com/2015/08/beginners-guide-sql.html 
 ## Data Mining
 ## Profiling & Summary Statistics
 ## Cleaning
@@ -240,9 +262,11 @@ Python - http://www.slideshare.net/GaelVaroquaux/scientit-meets-web-dev-how-pyth
 ## Exploration & Visualization
 ## Preliminary Exploration, Trend Analysis & Slice and Dicing
 http://www.forbes.com/sites/bernardmarr/2016/08/16/how-to-use-analytics-to-identify-trends-in-your-market/#42892afd228b
-
+https://blog.taucharts.com/taucharts-data-focused-charting-library/
+http://bokeh.pydata.org/en/latest/ 
 ## Big Data Visualizaion
 ## Methods Selection
+http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared 
 
 model-parallelism (use same data across different models) Part I: Dask & scikit-learn: Model Parallelism
 
@@ -253,12 +277,16 @@ distributed learning and grid search on a real dataset - Part III: Dask & scikit
 
 
 ## Feature Engineering
+deep feature engineering - http://www.kdnuggets.com/2015/10/data-science-machine.html
+
 ## Pre-processing
 ## A/B Testing
 ## Algorithms
+https://algorithmia.com/algorithms/nlp/LDA 
 Distributed Machine Learning Toolkit
 http://www.winbeta.org/news/microsoft-makes-distributed-machine-learning-toolkit-open-source 
-
+https://en.m.wikipedia.org/wiki/Viterbi_algorithm#/search
+ 
 
 Random numbers – true - http://fortune.com/2016/03/14/zoomdata-adds-amazon-data-sources-to-its-menu/ 
 
@@ -271,7 +299,12 @@ Locator AI - http://www.fastcodesign.com/3058793/take-a-photo-and-this-crazy-neu
 https://thinkinator.com/2016/01/12/r-users-will-now-inevitably-become-bayesians/
 Changepoint - https://www.r-bloggers.com/a-simple-intro-to-bayesian-change-point-analysis/
 ## Deep Learning
+http://www.forbes.com/sites/anthonykosner/2014/12/29/tech-2015-deep-learning-and-machine-intelligence-will-eat-the-world/?linkId=11530714#68e15e6f282c
+
+Top 5 deep learning papers - http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html
+Deep learning – big deal - https://flipboard.com/@aj1ujm1/data-science-v706t99nz/the-big-deal-with-deep-learning/a-nXOUoIP_TVOILdb-QZ1eDg%3Aa%3A285596943-0c08a0f3c7%2Fdzone.com
 Deep learning in R http://www.r-tutor.com/deep-learning/introduction 
+Deep learning - http://www.teglor.com/b/deep-learning-libraries-language-cm569/ 
 Top 5 arXiv Deep Learning Papers, Explained
 
 
@@ -287,13 +320,17 @@ DNN with Sparknet - http://www.kdnuggets.com/2015/12/spark-deep-learning-trainin
 ## Ensemble Models
 ## Forecasting/Time-series
 ## Fourier Analysis
+##Kalman Filter 
+http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/ 
 ## Machine Intelligence
 HTM (Hierarchical Temporal Memory) - https://jaxenter.com/machine-intelligence-vs-machine-learning-128157.html 
 
+## Matrix Factorization
+https://www.r-bloggers.com/matrix-factorization/
 ## Network Analysis
 https://graph-tool.skewed.de/performance 
 http://blogs.scientificamerican.com/sa-visual/visualizing-the-global-network-of-languages/
-
+https://blog.hootsuite.com/tracking-social-media-in-google-analytics/ 
 ## Inferential Statistics
 ## Markov Models
 ## On-line Learning
@@ -306,21 +343,35 @@ Non-linear Optimzation
 Integer Optimization
 Linear Optimization
 Solving linear programs in a spreadsheet
+Faster optimization - https://flipboard.com/@aj1ujm1/data-science-v706t99nz/faster-optimization/a-70qXlyyeSZe4DJsGGpa3cg%3Aa%3A285596943-257a03fc96%2Fmit.edu 
+https://visualstudiomagazine.com/articles/2015/01/01/multi-swarm-optimization.aspx
+
 ## Probability
 ## Queuing
+## Recommeder systems 
+https://yanirseroussi.com/2015/10/02/the-wonderful-world-of-recommender-systems/
 ## Reinforcement Learning
 ## Rule-based Learning
 ## Scheduling & Multi-period Planning
 ## Sensitivity Analysis
 ## Simulation and Random Walks
 ## Statistics
+statistics in python - http://gael-varoquaux.info/stats_in_python_tutorial/ 
 ## Stochastic Optimization
 ## Supervised Learning
-
+http://www.kdnuggets.com/2014/03/machine-learning-7-pictures.html 
+tree-based from scratch - https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/ 
+naïve bayes: https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/ 
+python cheat sheet - http://www.dummies.com/programming/python/python-for-data-science-for-dummies-cheat-sheet/
+Thresholds: http://www.kdnuggets.com/2015/10/best-blogs-analytics-big-data-science-machine-learning.html 
 Regression - http://www.datavizualization.com/blog/10-types-of-regressions-which-one-to-use 
 Fuzzy Forests - https://mran.microsoft.com/package/fuzzyforest/
 
-Neural Networks - https://medium.com/autonomous-agents/emergence-of-the-artificial-neural-networks-among-other-models-cd93f6c97532#.j7fapq12i
+Neural Networks 
+- how do NN learn http://blog.fastforwardlabs.com/post/129793362663/how-do-neural-networks-learn 
+- http://www.turingfinance.com/misconceptions-about-neural-networks/ 
+- https://medium.com/autonomous-agents/emergence-of-the-artificial-neural-networks-among-other-models-cd93f6c97532#.j7fapq12i
+-	9 lines of code: http://www.huffingtonpost.com/hollie-russon-gilman/the-power-of-small-data-b_b_8512954.html
 -	Nueral Networks with Python - https://ep2016.europython.eu/conference/talks/a-gentle-introduction-to-neural-networks-with-python
 -	Coding NN https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.8kbj5s8ql 
 -	Teach logic to NN https://medium.com/autonomous-agents/how-to-teach-logic-to-your-neuralnetworks-116215c71a49#.mxkq91kt9
@@ -332,9 +383,12 @@ Neural Networks - https://medium.com/autonomous-agents/emergence-of-the-artifici
 Ordinal Least Squares Regression - http://www.ats.ucla.edu/stat/r/dae/ologit.htm 
 
 ## Tensors 
+
+http://www.kdnuggets.com/2016/08/gentlest-introduction-tensorflow-part-2.html
+
 ## Unsupervised Learning
 Model-based Clustering - http://www.sthda.com/english/wiki/model-based-clustering-unsupervised-machine-learning 
-
+Heirachical Clustering - http://www.sthda.com/english/wiki/hierarchical-clustering-essentials-unsupervised-machine-learning 
 ## Computational Fundamentals
 
 Computation – Popular Equations
@@ -355,16 +409,23 @@ Image recognition - http://firsttimeprogrammer.blogspot.com/2016/07/image-recogn
 ## Insights
 ## Actions
 ## Results
-## Data cience 
+## Data science 
 http://www.emc.com/microsites/data-scientist-interactive-guide/index.htm?cmp=soc-cor-glbl-us-sprinklr-TWITTER-Big+Data-EMCcorp-328230962
+http://blog.mypath.io/how-to-become-data-scientist-for-free/ 
+http://www.kdnuggets.com/2016/08/become-type-a-data-scientist.html
 
 ## Data Engineering
 GPU computing - http://www.slideshare.net/continuumio/gpu-computing-with-apache-spark-and-python 
 ## Bash
+## Python
+http://snip.ly/nurk#http://www.swaroopch.com/notes/python/
 ## Databases
 ## Sampling
 ## Surveys
-## Open Data
+### Tutorials
+http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice
+
+ ## Open Data
 ## Scaling
 
 Spark – Scala vs. Pyspark - https://www.dezyre.com/article/scala-vs-python-for-apache-spark/213 
@@ -391,6 +452,12 @@ Cool - http://www.informationweek.com/strategic-cio/executive-insights-and-innov
 Uses- https://flipboard.com/@aj1ujm1/data-science-v706t99nz/24-uses-of-statistical-modeling-(part-i)/a-piVeaDFrRwaGnjLd2Xc2Sw%3Aa%3A285596943-d74f05a352%2Fdatasciencecentral.com 
 
 ## Vertical
+
+http://www.impactlab.net/2015/03/09/how-machine-learning-will-feed-innovation/
+
+Food - http://www.fastcompany.com/3062262/how-machine-learning-will-change-what-you-eat
+
+Banking – https://flipboard.com/@aj1ujm1/data-science-v706t99nz/how-apache-spark%2C-scala%2C-and-functional-programming-made-hard-problems-easy-at-b/a-i2a0y-aNSa6ojqfY21jdBQ%3Aa%3A285596943-87c72345e5%2Fcloudera.com
 
 IoT/manufacturing - http://www.economist.com/news/leaders/21678786-manufacturers-must-learn-behave-more-tech-firms-machine-learning
 
@@ -446,6 +513,10 @@ Identify sales pitches - People.ai applies machine learning methods to tradition
 
 
 ## Horizontal
+
+Adverstigin - http://www.kdnuggets.com/2015/08/big-data-influencing-data-driven-advertising.html
+
+Marketing - http://www.huffingtonpost.com/hollie-russon-gilman/the-power-of-small-data-b_b_8512954.html 
 
 Employee engagement - https://hbr.org/2015/12/ideos-employee-engagement-formula&cm_sp=Article-_-Links-_-End%20of%20Page%20Recirculation
 
@@ -772,6 +843,19 @@ Keywords: facility location, distribution network, linear programming, integer p
 
 
 # Data Sets
+https://www.analyticsvidhya.com/blog/2014/11/data-science-projects-learn/ 
+•	Source code for our Big Data keyword correlation API
+•	Great statistical analysis: forecasting meteorite hits
+•	Fast clustering algorithms for massive datasets
+•	53.5 billion clicks dataset available for benchmarking and testing
+•	Over 5,000,000 financial, economic and social datasets
+•	New pattern to predict stock prices, multiplies return by factor 5
+•	3.5 billion web pages
+•	Another large data set - 250 million data points - available for do...
+•	125 Years of Public Health Data Available for Download
+•	Two big datasets to challenge your data science expertise
+•	From the trenches: real data science project (Google Analytics)
+•	Data sets and other machine learning resources from UC Irvine 
 
 INFORMS MARKETING SCIENCE SOCIETY-ISMS RESEARCH DATASETS 
 https://www.informs.org/Community/ISMS/ISMS-Research-Datasets 
@@ -811,6 +895,7 @@ Machine learning is poised to be the next frontier, so don't miss this opportuni
 
 # Conferences:
 http://www.kdd.org/kdd2016/ aug 13-17
+https://flipboard.com/@aj1ujm1/data-science-v706t99nz/the-7-conferences-data-scientists-shouldn%E2%80%99t-miss/a-7BoauZ99SoawPPJDGu1s3g%3Aa%3A285596943-3affa662b0%2Frjmetrics.com
 # Instructor Resources:
 
 SAS-INSTRUCTOR RESOURCES 
@@ -818,6 +903,7 @@ http://support.sas.com/learn/ap/tkit/list.html
 
 # Books
 Requested books:
+- http://www.kdnuggets.com/2015/03/free-data-mining-data-science-books-resources.html
 
 -June 27 - http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-reasoning-and-machine-learning?format=HB&isbn=9780521518147
 -http://www.cambridge.org/us/academic/subjects/economics/econometrics-statistics-and-mathematical-economics/time-series-models-business-and-economic-forecasting-2nd-edition?format=PB&isbn=9780521520911
@@ -1208,6 +1294,8 @@ receiving at least x as does A, and for some x, B gives a higher probability of 
 
 # Other Resources:
 
+90 blogs: 
+http://www.kdnuggets.com/2015/10/best-blogs-analytics-big-data-science-machine-learning.html 
 KAGGLE IN-CLASS INITIATIVE 
 (http://inclass.kaggle.com/) 
 
